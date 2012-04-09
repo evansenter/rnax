@@ -9,5 +9,6 @@
     , "supervisor": ">= 0.0.1"
     , "underscore": ">= 0.0.1"
     , "mongodb": ">= 0.9.6-7"
+    , "mongoose": ">= 2.5.13"
   }
 }
