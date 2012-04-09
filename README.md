@@ -1,7 +1,4 @@
-RNAx
-====
-
-An end-to-end JS platform for managing and deploying webtools with long running server-side tasks.
+**RNAx** ~ An end-to-end JS platform for managing and deploying webtools with long running server-side tasks.
 --------------------------------------------------------------------------------------------------
 
 ### Technologies used:
